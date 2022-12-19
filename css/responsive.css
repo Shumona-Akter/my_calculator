@@ -1,0 +1,27 @@
+
+@media (max-width: 575px) {
+    #container{
+        padding: 50px 30px 30px 30px;
+        background-color: #a8e0a8;
+        border-radius: 20px;
+        box-shadow: 10px 10px 10px #403e26;
+        
+    }
+    .input{
+        width: 225px;
+        margin-bottom: 15px;
+        height: 70px;
+        border-radius: 10px;
+        border-color:#db9d00 ;
+        outline: none;
+        
+    }
+    button{
+        height: 40px;
+        width: 40px;
+        font-size: 16px;
+        border-radius: 10px;
+        border-color:#db9d00 ;
+        margin: 7px;
+    }
+} 
